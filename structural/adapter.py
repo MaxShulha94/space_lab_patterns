@@ -44,3 +44,7 @@ if __name__ == "__main__":
     result = temperature_adapter.change_temperature()
 
     print(result)
+
+
+
+
